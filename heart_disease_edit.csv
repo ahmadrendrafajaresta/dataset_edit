@@ -1,0 +1,304 @@
+age,sex,cp,trestbps,chol,fbs,restecg,thalach,exang,oldpeak,slope,ca,thal,target
+63,Pria,Asymptomatic,145,233,Fbs>120,Normal,150,Tidak,2.3,UpSloping,Tidak,normal,Terkena
+37,Pria,Non-anginal pain,130,250,fbs<=120,Abnormal,187,Tidak,3.5,UpSloping,Tidak,rever,Terkena
+41,Wanita,Atypical angina,130,204,fbs<=120,Normal,172,Tidak,1.4,DownSloping,Tidak,rever,Terkena
+56,Pria,Atypical angina,120,236,fbs<=120,Abnormal,178,Tidak,0.8,DownSloping,Tidak,rever,Terkena
+57,Wanita,Typical angina,120,354,fbs<=120,Abnormal,163,Iya,0.6,DownSloping,Tidak,rever,Terkena
+57,Pria,Typical angina,140,192,fbs<=120,Abnormal,148,Tidak,0.4,FlatSloping,Tidak,normal,Terkena
+56,Wanita,Atypical angina,140,294,fbs<=120,Normal,153,Tidak,1.3,FlatSloping,Tidak,rever,Terkena
+44,Pria,Atypical angina,120,263,fbs<=120,Abnormal,173,Tidak,0.0,DownSloping,Tidak,fixed,Terkena
+52,Pria,Non-anginal pain,172,199,Fbs>120,Abnormal,162,Tidak,0.5,DownSloping,Tidak,fixed,Terkena
+57,Pria,Non-anginal pain,150,168,fbs<=120,Abnormal,174,Tidak,1.6,DownSloping,Tidak,rever,Terkena
+54,Pria,Typical angina,140,239,fbs<=120,Abnormal,160,Tidak,1.2,DownSloping,Tidak,rever,Terkena
+48,Wanita,Non-anginal pain,130,275,fbs<=120,Abnormal,139,Tidak,0.2,DownSloping,Tidak,rever,Terkena
+49,Pria,Atypical angina,130,266,fbs<=120,Abnormal,171,Tidak,0.6,DownSloping,Tidak,rever,Terkena
+64,Pria,Asymptomatic,110,211,fbs<=120,Normal,144,Iya,1.8,FlatSloping,Tidak,rever,Terkena
+58,Wanita,Asymptomatic,150,283,Fbs>120,Normal,162,Tidak,1.0,DownSloping,Tidak,rever,Terkena
+50,Wanita,Non-anginal pain,120,219,fbs<=120,Abnormal,158,Tidak,1.6,FlatSloping,Tidak,rever,Terkena
+58,Wanita,Non-anginal pain,120,340,fbs<=120,Abnormal,172,Tidak,0.0,DownSloping,Tidak,rever,Terkena
+66,Wanita,Asymptomatic,150,226,fbs<=120,Abnormal,114,Tidak,2.6,UpSloping,Tidak,rever,Terkena
+43,Pria,Typical angina,150,247,fbs<=120,Abnormal,171,Tidak,1.5,DownSloping,Tidak,rever,Terkena
+69,Wanita,Asymptomatic,140,239,fbs<=120,Abnormal,151,Tidak,1.8,DownSloping,,rever,Terkena
+59,Pria,Typical angina,135,234,fbs<=120,Abnormal,161,Tidak,0.5,FlatSloping,Tidak,fixed,Terkena
+44,Pria,Non-anginal pain,130,233,fbs<=120,Abnormal,179,Iya,0.4,DownSloping,Tidak,rever,Terkena
+42,Pria,Typical angina,140,226,fbs<=120,Abnormal,178,Tidak,0.0,DownSloping,Tidak,rever,Terkena
+61,Pria,Non-anginal pain,150,243,Fbs>120,Abnormal,137,Iya,1.0,FlatSloping,Tidak,rever,Terkena
+40,Pria,Asymptomatic,140,199,fbs<=120,Abnormal,178,Iya,1.4,DownSloping,Tidak,fixed,Terkena
+71,Wanita,Atypical angina,160,302,fbs<=120,Abnormal,162,Tidak,0.4,DownSloping,,rever,Terkena
+59,Pria,Non-anginal pain,150,212,Fbs>120,Abnormal,157,Tidak,1.6,DownSloping,Tidak,rever,Terkena
+51,Pria,Non-anginal pain,110,175,fbs<=120,Abnormal,123,Tidak,0.6,DownSloping,Tidak,rever,Terkena
+65,Wanita,Non-anginal pain,140,417,Fbs>120,Normal,157,Tidak,0.8,DownSloping,Iya,rever,Terkena
+53,Pria,Non-anginal pain,130,197,Fbs>120,Normal,152,Tidak,1.2,UpSloping,Tidak,rever,Terkena
+41,Wanita,Atypical angina,105,198,fbs<=120,Abnormal,168,Tidak,0.0,DownSloping,Iya,rever,Terkena
+65,Pria,Typical angina,120,177,fbs<=120,Abnormal,140,Tidak,0.4,DownSloping,Tidak,fixed,Terkena
+44,Pria,Atypical angina,130,219,fbs<=120,Normal,188,Tidak,0.0,DownSloping,Tidak,rever,Terkena
+54,Pria,Non-anginal pain,125,273,fbs<=120,Normal,152,Tidak,0.5,UpSloping,Iya,rever,Terkena
+51,Pria,Asymptomatic,125,213,fbs<=120,Normal,125,Iya,1.4,DownSloping,Iya,rever,Terkena
+46,Wanita,Non-anginal pain,142,177,fbs<=120,Normal,160,Iya,1.4,UpSloping,Tidak,rever,Terkena
+54,Wanita,Non-anginal pain,135,304,Fbs>120,Abnormal,170,Tidak,0.0,DownSloping,Tidak,rever,Terkena
+54,Pria,Non-anginal pain,150,232,fbs<=120,Normal,165,Tidak,1.6,DownSloping,Tidak,fixed,Terkena
+65,Wanita,Non-anginal pain,155,269,fbs<=120,Abnormal,148,Tidak,0.8,DownSloping,Tidak,rever,Terkena
+65,Wanita,Non-anginal pain,160,360,fbs<=120,Normal,151,Tidak,0.8,DownSloping,Tidak,rever,Terkena
+51,Wanita,Non-anginal pain,140,308,fbs<=120,Normal,142,Tidak,1.5,DownSloping,Iya,rever,Terkena
+48,Pria,Atypical angina,130,245,fbs<=120,Normal,180,Tidak,0.2,FlatSloping,Tidak,rever,Terkena
+45,Pria,Typical angina,104,208,fbs<=120,Normal,148,Iya,3.0,FlatSloping,Tidak,rever,Terkena
+53,Wanita,Typical angina,130,264,fbs<=120,Normal,143,Tidak,0.4,FlatSloping,Tidak,rever,Terkena
+39,Pria,Non-anginal pain,140,321,fbs<=120,Normal,182,Tidak,0.0,DownSloping,Tidak,rever,Terkena
+52,Pria,Atypical angina,120,325,fbs<=120,Abnormal,172,Tidak,0.2,DownSloping,Tidak,rever,Terkena
+44,Pria,Non-anginal pain,140,235,fbs<=120,Normal,180,Tidak,0.0,DownSloping,Tidak,rever,Terkena
+47,Pria,Non-anginal pain,138,257,fbs<=120,Normal,156,Tidak,0.0,DownSloping,Tidak,rever,Terkena
+53,Wanita,Non-anginal pain,128,216,fbs<=120,Normal,115,Tidak,0.0,DownSloping,Tidak,normal,Terkena
+53,Wanita,Typical angina,138,234,fbs<=120,Normal,160,Tidak,0.0,DownSloping,Tidak,rever,Terkena
+51,Wanita,Non-anginal pain,130,256,fbs<=120,Normal,149,Tidak,0.5,DownSloping,Tidak,rever,Terkena
+66,Pria,Typical angina,120,302,fbs<=120,Normal,151,Tidak,0.4,FlatSloping,Tidak,rever,Terkena
+62,Pria,Non-anginal pain,130,231,fbs<=120,Abnormal,146,Tidak,1.8,FlatSloping,,fixed,Terkena
+44,Wanita,Non-anginal pain,108,141,fbs<=120,Abnormal,175,Tidak,0.6,FlatSloping,Tidak,rever,Terkena
+63,Wanita,Non-anginal pain,135,252,fbs<=120,Normal,172,Tidak,0.0,DownSloping,Tidak,rever,Terkena
+52,Pria,Atypical angina,134,201,fbs<=120,Abnormal,158,Tidak,0.8,DownSloping,Iya,rever,Terkena
+48,Pria,Typical angina,122,222,fbs<=120,Normal,186,Tidak,0.0,DownSloping,Tidak,rever,Terkena
+45,Pria,Typical angina,115,260,fbs<=120,Normal,185,Tidak,0.0,DownSloping,Tidak,rever,Terkena
+34,Pria,Asymptomatic,118,182,fbs<=120,Normal,174,Tidak,0.0,DownSloping,Tidak,rever,Terkena
+57,Wanita,Typical angina,128,303,fbs<=120,Normal,159,Tidak,0.0,DownSloping,Iya,rever,Terkena
+71,Wanita,Non-anginal pain,110,265,Fbs>120,Normal,130,Tidak,0.0,DownSloping,Iya,rever,Terkena
+54,Pria,Atypical angina,108,309,fbs<=120,Abnormal,156,Tidak,0.0,DownSloping,Tidak,fixed,Terkena
+52,Pria,Asymptomatic,118,186,fbs<=120,Normal,190,Tidak,0.0,FlatSloping,Tidak,normal,Terkena
+41,Pria,Atypical angina,135,203,fbs<=120,Abnormal,132,Tidak,0.0,FlatSloping,Tidak,normal,Terkena
+58,Pria,Non-anginal pain,140,211,Fbs>120,Normal,165,Tidak,0.0,DownSloping,Tidak,rever,Terkena
+35,Wanita,Typical angina,138,183,fbs<=120,Abnormal,182,Tidak,1.4,DownSloping,Tidak,rever,Terkena
+51,Pria,Non-anginal pain,100,222,fbs<=120,Abnormal,143,Iya,1.2,FlatSloping,Tidak,rever,Terkena
+45,Wanita,Atypical angina,130,234,fbs<=120,Normal,175,Tidak,0.6,FlatSloping,Tidak,rever,Terkena
+44,Pria,Atypical angina,120,220,fbs<=120,Abnormal,170,Tidak,0.0,DownSloping,Tidak,rever,Terkena
+62,Wanita,Typical angina,124,209,fbs<=120,Abnormal,163,Tidak,0.0,DownSloping,Tidak,rever,Terkena
+54,Pria,Non-anginal pain,120,258,fbs<=120,Normal,147,Tidak,0.4,FlatSloping,Tidak,fixed,Terkena
+51,Pria,Non-anginal pain,94,227,fbs<=120,Abnormal,154,Iya,0.0,DownSloping,Iya,fixed,Terkena
+29,Pria,Atypical angina,130,204,fbs<=120,Normal,202,Tidak,0.0,DownSloping,Tidak,rever,Terkena
+51,Pria,Typical angina,140,261,fbs<=120,Normal,186,Iya,0.0,DownSloping,Tidak,rever,Terkena
+43,Wanita,Non-anginal pain,122,213,fbs<=120,Abnormal,165,Tidak,0.2,FlatSloping,Tidak,rever,Terkena
+55,Wanita,Atypical angina,135,250,fbs<=120,Normal,161,Tidak,1.4,FlatSloping,Tidak,rever,Terkena
+51,Pria,Non-anginal pain,125,245,Fbs>120,Normal,166,Tidak,2.4,FlatSloping,Tidak,rever,Terkena
+59,Pria,Atypical angina,140,221,fbs<=120,Abnormal,164,Iya,0.0,DownSloping,Tidak,rever,Terkena
+52,Pria,Atypical angina,128,205,Fbs>120,Abnormal,184,Tidak,0.0,DownSloping,Tidak,rever,Terkena
+58,Pria,Non-anginal pain,105,240,fbs<=120,Normal,154,Iya,0.6,FlatSloping,Tidak,fixed,Terkena
+41,Pria,Non-anginal pain,112,250,fbs<=120,Abnormal,179,Tidak,0.0,DownSloping,Tidak,rever,Terkena
+45,Pria,Atypical angina,128,308,fbs<=120,Normal,170,Tidak,0.0,DownSloping,Tidak,rever,Terkena
+60,Wanita,Non-anginal pain,102,318,fbs<=120,Abnormal,160,Tidak,0.0,DownSloping,Iya,rever,Terkena
+52,Pria,Asymptomatic,152,298,Fbs>120,Abnormal,178,Tidak,1.2,FlatSloping,Tidak,fixed,Terkena
+42,Wanita,Typical angina,102,265,fbs<=120,Normal,122,Tidak,0.6,FlatSloping,Tidak,rever,Terkena
+67,Wanita,Non-anginal pain,115,564,fbs<=120,Normal,160,Tidak,1.6,FlatSloping,Tidak,fixed,Terkena
+68,Pria,Non-anginal pain,118,277,fbs<=120,Abnormal,151,Tidak,1.0,DownSloping,Iya,fixed,Terkena
+46,Pria,Atypical angina,101,197,Fbs>120,Abnormal,156,Tidak,0.0,DownSloping,Tidak,fixed,Terkena
+54,Wanita,Non-anginal pain,110,214,fbs<=120,Abnormal,158,Tidak,1.6,FlatSloping,Tidak,rever,Terkena
+58,Wanita,Typical angina,100,248,fbs<=120,Normal,122,Tidak,1.0,FlatSloping,Tidak,rever,Terkena
+48,Pria,Non-anginal pain,124,255,Fbs>120,Abnormal,175,Tidak,0.0,DownSloping,,rever,Terkena
+57,Pria,Typical angina,132,207,fbs<=120,Abnormal,168,Iya,0.0,DownSloping,Tidak,fixed,Terkena
+52,Pria,Non-anginal pain,138,223,fbs<=120,Abnormal,169,Tidak,0.0,DownSloping,,rever,Terkena
+54,Wanita,Atypical angina,132,288,Fbs>120,Normal,159,Iya,0.0,DownSloping,Iya,rever,Terkena
+45,Wanita,Atypical angina,112,160,fbs<=120,Abnormal,138,Tidak,0.0,FlatSloping,Tidak,rever,Terkena
+53,Pria,Typical angina,142,226,fbs<=120,Normal,111,Iya,0.0,DownSloping,Tidak,fixed,Terkena
+62,Wanita,Typical angina,140,394,fbs<=120,Normal,157,Tidak,1.2,FlatSloping,Tidak,rever,Terkena
+52,Pria,Typical angina,108,233,Fbs>120,Abnormal,147,Tidak,0.1,DownSloping,,fixed,Terkena
+43,Pria,Non-anginal pain,130,315,fbs<=120,Abnormal,162,Tidak,1.9,DownSloping,Iya,rever,Terkena
+53,Pria,Non-anginal pain,130,246,Fbs>120,Normal,173,Tidak,0.0,DownSloping,,rever,Terkena
+42,Pria,Asymptomatic,148,244,fbs<=120,Normal,178,Tidak,0.8,DownSloping,,rever,Terkena
+59,Pria,Asymptomatic,178,270,fbs<=120,Normal,145,Tidak,4.2,UpSloping,Tidak,fixed,Terkena
+63,Wanita,Atypical angina,140,195,fbs<=120,Abnormal,179,Tidak,0.0,DownSloping,,rever,Terkena
+42,Pria,Non-anginal pain,120,240,Fbs>120,Abnormal,194,Tidak,0.8,UpSloping,Tidak,fixed,Terkena
+50,Pria,Non-anginal pain,129,196,fbs<=120,Abnormal,163,Tidak,0.0,DownSloping,Tidak,rever,Terkena
+68,Wanita,Non-anginal pain,120,211,fbs<=120,Normal,115,Tidak,1.5,FlatSloping,Tidak,rever,Terkena
+69,Pria,Asymptomatic,160,234,Fbs>120,Normal,131,Tidak,0.1,FlatSloping,Iya,rever,Terkena
+45,Wanita,Typical angina,138,236,fbs<=120,Normal,152,Iya,0.2,FlatSloping,Tidak,rever,Terkena
+50,Wanita,Atypical angina,120,244,fbs<=120,Abnormal,162,Tidak,1.1,DownSloping,Tidak,rever,Terkena
+50,Wanita,Typical angina,110,254,fbs<=120,Normal,159,Tidak,0.0,DownSloping,Tidak,rever,Terkena
+64,Wanita,Typical angina,180,325,fbs<=120,Abnormal,154,Iya,0.0,DownSloping,Tidak,rever,Terkena
+57,Pria,Non-anginal pain,150,126,Fbs>120,Abnormal,173,Tidak,0.2,DownSloping,Iya,fixed,Terkena
+64,Wanita,Non-anginal pain,140,313,fbs<=120,Abnormal,133,Tidak,0.2,DownSloping,Tidak,fixed,Terkena
+43,Pria,Typical angina,110,211,fbs<=120,Abnormal,161,Tidak,0.0,DownSloping,Tidak,fixed,Terkena
+55,Pria,Atypical angina,130,262,fbs<=120,Abnormal,155,Tidak,0.0,DownSloping,Tidak,rever,Terkena
+37,Wanita,Non-anginal pain,120,215,fbs<=120,Abnormal,170,Tidak,0.0,DownSloping,Tidak,rever,Terkena
+41,Pria,Non-anginal pain,130,214,fbs<=120,Normal,168,Tidak,2.0,FlatSloping,Tidak,rever,Terkena
+56,Pria,Asymptomatic,120,193,fbs<=120,Normal,162,Tidak,1.9,FlatSloping,Tidak,fixed,Terkena
+46,Wanita,Atypical angina,105,204,fbs<=120,Abnormal,172,Tidak,0.0,DownSloping,Tidak,rever,Terkena
+46,Wanita,Typical angina,138,243,fbs<=120,Normal,152,Iya,0.0,FlatSloping,Tidak,rever,Terkena
+64,Wanita,Typical angina,130,303,fbs<=120,Abnormal,122,Tidak,2.0,FlatSloping,,rever,Terkena
+59,Pria,Typical angina,138,271,fbs<=120,Normal,182,Tidak,0.0,DownSloping,Tidak,rever,Terkena
+41,Wanita,Non-anginal pain,112,268,fbs<=120,Normal,172,Iya,0.0,DownSloping,Tidak,rever,Terkena
+54,Wanita,Non-anginal pain,108,267,fbs<=120,Normal,167,Tidak,0.0,DownSloping,Tidak,rever,Terkena
+39,Wanita,Non-anginal pain,94,199,fbs<=120,Abnormal,179,Tidak,0.0,DownSloping,Tidak,rever,Terkena
+34,Wanita,Atypical angina,118,210,fbs<=120,Abnormal,192,Tidak,0.7,DownSloping,Tidak,rever,Terkena
+47,Pria,Typical angina,112,204,fbs<=120,Abnormal,143,Tidak,0.1,DownSloping,Tidak,rever,Terkena
+67,Wanita,Non-anginal pain,152,277,fbs<=120,Abnormal,172,Tidak,0.0,DownSloping,Iya,rever,Terkena
+52,Wanita,Non-anginal pain,136,196,fbs<=120,Normal,169,Tidak,0.1,FlatSloping,Tidak,rever,Terkena
+74,Wanita,Atypical angina,120,269,fbs<=120,Normal,121,Iya,0.2,DownSloping,Iya,rever,Terkena
+54,Wanita,Non-anginal pain,160,201,fbs<=120,Abnormal,163,Tidak,0.0,DownSloping,Iya,rever,Terkena
+49,Wanita,Atypical angina,134,271,fbs<=120,Abnormal,162,Tidak,0.0,FlatSloping,Tidak,rever,Terkena
+42,Pria,Atypical angina,120,295,fbs<=120,Abnormal,162,Tidak,0.0,DownSloping,Tidak,rever,Terkena
+41,Pria,Atypical angina,110,235,fbs<=120,Abnormal,153,Tidak,0.0,DownSloping,Tidak,rever,Terkena
+41,Wanita,Atypical angina,126,306,fbs<=120,Abnormal,163,Tidak,0.0,DownSloping,Tidak,rever,Terkena
+49,Wanita,Typical angina,130,269,fbs<=120,Abnormal,163,Tidak,0.0,DownSloping,Tidak,rever,Terkena
+60,Wanita,Non-anginal pain,120,178,Fbs>120,Abnormal,96,Tidak,0.0,DownSloping,Tidak,rever,Terkena
+62,Pria,Atypical angina,128,208,Fbs>120,Normal,140,Tidak,0.0,DownSloping,Tidak,rever,Terkena
+57,Pria,Typical angina,110,201,fbs<=120,Abnormal,126,Iya,1.5,FlatSloping,Tidak,normal,Terkena
+64,Pria,Typical angina,128,263,fbs<=120,Abnormal,105,Iya,0.2,FlatSloping,Iya,fixed,Terkena
+51,Wanita,Non-anginal pain,120,295,fbs<=120,Normal,157,Tidak,0.6,DownSloping,Tidak,rever,Terkena
+43,Pria,Typical angina,115,303,fbs<=120,Abnormal,181,Tidak,1.2,FlatSloping,Tidak,rever,Terkena
+42,Wanita,Non-anginal pain,120,209,fbs<=120,Abnormal,173,Tidak,0.0,FlatSloping,Tidak,rever,Terkena
+67,Wanita,Typical angina,106,223,fbs<=120,Abnormal,142,Tidak,0.3,DownSloping,,rever,Terkena
+76,Wanita,Non-anginal pain,140,197,fbs<=120,Hypertrofi ventrikel,116,Tidak,1.1,FlatSloping,Tidak,rever,Terkena
+70,Pria,Atypical angina,156,245,fbs<=120,Normal,143,Tidak,0.0,DownSloping,Tidak,rever,Terkena
+44,Wanita,Non-anginal pain,118,242,fbs<=120,Abnormal,149,Tidak,0.3,FlatSloping,Iya,rever,Terkena
+60,Wanita,Asymptomatic,150,240,fbs<=120,Abnormal,171,Tidak,0.9,DownSloping,Tidak,rever,Terkena
+44,Pria,Non-anginal pain,120,226,fbs<=120,Abnormal,169,Tidak,0.0,DownSloping,Tidak,rever,Terkena
+42,Pria,Non-anginal pain,130,180,fbs<=120,Abnormal,150,Tidak,0.0,DownSloping,Tidak,rever,Terkena
+66,Pria,Typical angina,160,228,fbs<=120,Normal,138,Tidak,2.3,DownSloping,Tidak,normal,Terkena
+71,Wanita,Typical angina,112,149,fbs<=120,Abnormal,125,Tidak,1.6,FlatSloping,Tidak,rever,Terkena
+64,Pria,Asymptomatic,170,227,fbs<=120,Normal,155,Tidak,0.6,FlatSloping,Tidak,fixed,Terkena
+66,Wanita,Non-anginal pain,146,278,fbs<=120,Normal,152,Tidak,0.0,FlatSloping,Iya,rever,Terkena
+39,Wanita,Non-anginal pain,138,220,fbs<=120,Abnormal,152,Tidak,0.0,FlatSloping,Tidak,rever,Terkena
+58,Wanita,Typical angina,130,197,fbs<=120,Abnormal,131,Tidak,0.6,FlatSloping,Tidak,rever,Terkena
+47,Pria,Non-anginal pain,130,253,fbs<=120,Abnormal,179,Tidak,0.0,DownSloping,Tidak,rever,Terkena
+35,Pria,Atypical angina,122,192,fbs<=120,Abnormal,174,Tidak,0.0,DownSloping,Tidak,rever,Terkena
+58,Pria,Atypical angina,125,220,fbs<=120,Abnormal,144,Tidak,0.4,FlatSloping,,fixed,Terkena
+56,Pria,Atypical angina,130,221,fbs<=120,Normal,163,Tidak,0.0,DownSloping,Tidak,fixed,Terkena
+56,Pria,Atypical angina,120,240,fbs<=120,Abnormal,169,Tidak,0.0,UpSloping,Tidak,rever,Terkena
+55,Wanita,Atypical angina,132,342,fbs<=120,Abnormal,166,Tidak,1.2,DownSloping,Tidak,rever,Terkena
+41,Pria,Atypical angina,120,157,fbs<=120,Abnormal,182,Tidak,0.0,DownSloping,Tidak,rever,Terkena
+38,Pria,Non-anginal pain,138,175,fbs<=120,Abnormal,173,Tidak,0.0,DownSloping,,rever,Terkena
+38,Pria,Non-anginal pain,138,175,fbs<=120,Abnormal,173,Tidak,0.0,DownSloping,,rever,Terkena
+67,Pria,Typical angina,160,286,fbs<=120,Normal,108,Iya,1.5,FlatSloping,,rever,Tidak Terkena
+67,Pria,Typical angina,120,229,fbs<=120,Normal,129,Iya,2.6,FlatSloping,,fixed,Tidak Terkena
+62,Wanita,Typical angina,140,268,fbs<=120,Normal,160,Tidak,3.6,UpSloping,,rever,Tidak Terkena
+63,Pria,Typical angina,130,254,fbs<=120,Normal,147,Tidak,1.4,FlatSloping,Iya,fixed,Tidak Terkena
+53,Pria,Typical angina,140,203,Fbs>120,Normal,155,Iya,3.1,UpSloping,Tidak,fixed,Tidak Terkena
+56,Pria,Non-anginal pain,130,256,Fbs>120,Normal,142,Iya,0.6,FlatSloping,Iya,normal,Tidak Terkena
+48,Pria,Atypical angina,110,229,fbs<=120,Abnormal,168,Tidak,1.0,UpSloping,Tidak,fixed,Tidak Terkena
+58,Pria,Atypical angina,120,284,fbs<=120,Normal,160,Tidak,1.8,FlatSloping,Tidak,rever,Tidak Terkena
+58,Pria,Non-anginal pain,132,224,fbs<=120,Normal,173,Tidak,3.2,DownSloping,,fixed,Tidak Terkena
+60,Pria,Typical angina,130,206,fbs<=120,Normal,132,Iya,2.4,FlatSloping,,fixed,Tidak Terkena
+40,Pria,Typical angina,110,167,fbs<=120,Normal,114,Iya,2.0,FlatSloping,Tidak,fixed,Tidak Terkena
+60,Pria,Typical angina,117,230,Fbs>120,Abnormal,160,Iya,1.4,DownSloping,,fixed,Tidak Terkena
+64,Pria,Non-anginal pain,140,335,fbs<=120,Abnormal,158,Tidak,0.0,DownSloping,Tidak,rever,Tidak Terkena
+43,Pria,Typical angina,120,177,fbs<=120,Normal,120,Iya,2.5,FlatSloping,Tidak,fixed,Tidak Terkena
+57,Pria,Typical angina,150,276,fbs<=120,Normal,112,Iya,0.6,FlatSloping,Iya,normal,Tidak Terkena
+55,Pria,Typical angina,132,353,fbs<=120,Abnormal,132,Iya,1.2,FlatSloping,Iya,fixed,Tidak Terkena
+65,Wanita,Typical angina,150,225,fbs<=120,Normal,114,Tidak,1.0,FlatSloping,,fixed,Tidak Terkena
+61,Wanita,Typical angina,130,330,fbs<=120,Normal,169,Tidak,0.0,DownSloping,Tidak,rever,Tidak Terkena
+58,Pria,Non-anginal pain,112,230,fbs<=120,Normal,165,Tidak,2.5,FlatSloping,Iya,fixed,Tidak Terkena
+50,Pria,Typical angina,150,243,fbs<=120,Normal,128,Tidak,2.6,FlatSloping,Tidak,fixed,Tidak Terkena
+44,Pria,Typical angina,112,290,fbs<=120,Normal,153,Tidak,0.0,DownSloping,Iya,rever,Tidak Terkena
+60,Pria,Typical angina,130,253,fbs<=120,Abnormal,144,Iya,1.4,DownSloping,Iya,fixed,Tidak Terkena
+54,Pria,Typical angina,124,266,fbs<=120,Normal,109,Iya,2.2,FlatSloping,Iya,fixed,Tidak Terkena
+50,Pria,Non-anginal pain,140,233,fbs<=120,Abnormal,163,Tidak,0.6,FlatSloping,Iya,fixed,Tidak Terkena
+41,Pria,Typical angina,110,172,fbs<=120,Normal,158,Tidak,0.0,DownSloping,Tidak,fixed,Tidak Terkena
+51,Wanita,Typical angina,130,305,fbs<=120,Abnormal,142,Iya,1.2,FlatSloping,Tidak,fixed,Tidak Terkena
+58,Pria,Typical angina,128,216,fbs<=120,Normal,131,Iya,2.2,FlatSloping,,fixed,Tidak Terkena
+54,Pria,Typical angina,120,188,fbs<=120,Abnormal,113,Tidak,1.4,FlatSloping,Iya,fixed,Tidak Terkena
+60,Pria,Typical angina,145,282,fbs<=120,Normal,142,Iya,2.8,FlatSloping,,fixed,Tidak Terkena
+60,Pria,Non-anginal pain,140,185,fbs<=120,Normal,155,Tidak,3.0,FlatSloping,Tidak,rever,Tidak Terkena
+59,Pria,Typical angina,170,326,fbs<=120,Normal,140,Iya,3.4,UpSloping,Tidak,fixed,Tidak Terkena
+46,Pria,Non-anginal pain,150,231,fbs<=120,Abnormal,147,Tidak,3.6,FlatSloping,Tidak,rever,Tidak Terkena
+67,Pria,Typical angina,125,254,Fbs>120,Abnormal,163,Tidak,0.2,FlatSloping,,fixed,Tidak Terkena
+62,Pria,Typical angina,120,267,fbs<=120,Abnormal,99,Iya,1.8,FlatSloping,,fixed,Tidak Terkena
+65,Pria,Typical angina,110,248,fbs<=120,Normal,158,Tidak,0.6,DownSloping,,normal,Tidak Terkena
+44,Pria,Typical angina,110,197,fbs<=120,Normal,177,Tidak,0.0,DownSloping,Iya,rever,Tidak Terkena
+60,Pria,Typical angina,125,258,fbs<=120,Normal,141,Iya,2.8,FlatSloping,Iya,fixed,Tidak Terkena
+58,Pria,Typical angina,150,270,fbs<=120,Normal,111,Iya,0.8,DownSloping,Tidak,fixed,Tidak Terkena
+68,Pria,Non-anginal pain,180,274,Fbs>120,Normal,150,Iya,1.6,FlatSloping,Tidak,fixed,Tidak Terkena
+62,Wanita,Typical angina,160,164,fbs<=120,Normal,145,Tidak,6.2,UpSloping,,fixed,Tidak Terkena
+52,Pria,Typical angina,128,255,fbs<=120,Abnormal,161,Iya,0.0,DownSloping,Iya,fixed,Tidak Terkena
+59,Pria,Typical angina,110,239,fbs<=120,Normal,142,Iya,1.2,FlatSloping,Iya,fixed,Tidak Terkena
+60,Wanita,Typical angina,150,258,fbs<=120,Normal,157,Tidak,2.6,FlatSloping,,fixed,Tidak Terkena
+49,Pria,Non-anginal pain,120,188,fbs<=120,Abnormal,139,Tidak,2.0,FlatSloping,,fixed,Tidak Terkena
+59,Pria,Typical angina,140,177,fbs<=120,Abnormal,162,Iya,0.0,DownSloping,Iya,fixed,Tidak Terkena
+57,Pria,Non-anginal pain,128,229,fbs<=120,Normal,150,Tidak,0.4,FlatSloping,Iya,fixed,Tidak Terkena
+61,Pria,Typical angina,120,260,fbs<=120,Abnormal,140,Iya,3.6,FlatSloping,Iya,fixed,Tidak Terkena
+39,Pria,Typical angina,118,219,fbs<=120,Abnormal,140,Tidak,1.2,FlatSloping,Tidak,fixed,Tidak Terkena
+61,Wanita,Typical angina,145,307,fbs<=120,Normal,146,Iya,1.0,FlatSloping,Tidak,fixed,Tidak Terkena
+56,Pria,Typical angina,125,249,Fbs>120,Normal,144,Iya,1.2,FlatSloping,Iya,rever,Tidak Terkena
+43,Wanita,Typical angina,132,341,Fbs>120,Normal,136,Iya,3.0,FlatSloping,Tidak,fixed,Tidak Terkena
+62,Wanita,Non-anginal pain,130,263,fbs<=120,Abnormal,97,Tidak,1.2,FlatSloping,Iya,fixed,Tidak Terkena
+63,Pria,Typical angina,130,330,Fbs>120,Normal,132,Iya,1.8,DownSloping,,fixed,Tidak Terkena
+65,Pria,Typical angina,135,254,fbs<=120,Normal,127,Tidak,2.8,FlatSloping,Iya,fixed,Tidak Terkena
+48,Pria,Typical angina,130,256,Fbs>120,Normal,150,Iya,0.0,DownSloping,,fixed,Tidak Terkena
+63,Wanita,Typical angina,150,407,fbs<=120,Normal,154,Tidak,4.0,FlatSloping,,fixed,Tidak Terkena
+55,Pria,Typical angina,140,217,fbs<=120,Abnormal,111,Iya,5.6,UpSloping,Tidak,fixed,Tidak Terkena
+65,Pria,Asymptomatic,138,282,Fbs>120,Normal,174,Tidak,1.4,FlatSloping,Iya,rever,Tidak Terkena
+56,Wanita,Typical angina,200,288,Fbs>120,Normal,133,Iya,4.0,UpSloping,,fixed,Tidak Terkena
+54,Pria,Typical angina,110,239,fbs<=120,Abnormal,126,Iya,2.8,FlatSloping,Iya,fixed,Tidak Terkena
+70,Pria,Typical angina,145,174,fbs<=120,Abnormal,125,Iya,2.6,UpSloping,Tidak,fixed,Tidak Terkena
+62,Pria,Atypical angina,120,281,fbs<=120,Normal,103,Tidak,1.4,FlatSloping,Iya,fixed,Tidak Terkena
+35,Pria,Typical angina,120,198,fbs<=120,Abnormal,130,Iya,1.6,FlatSloping,Tidak,fixed,Tidak Terkena
+59,Pria,Asymptomatic,170,288,fbs<=120,Normal,159,Tidak,0.2,FlatSloping,Tidak,fixed,Tidak Terkena
+64,Pria,Non-anginal pain,125,309,fbs<=120,Abnormal,131,Iya,1.8,FlatSloping,Tidak,fixed,Tidak Terkena
+47,Pria,Non-anginal pain,108,243,fbs<=120,Abnormal,152,Tidak,0.0,DownSloping,Tidak,rever,Tidak Terkena
+57,Pria,Typical angina,165,289,Fbs>120,Normal,124,Tidak,1.0,FlatSloping,,fixed,Tidak Terkena
+55,Pria,Typical angina,160,289,fbs<=120,Normal,145,Iya,0.8,FlatSloping,Iya,fixed,Tidak Terkena
+64,Pria,Typical angina,120,246,fbs<=120,Normal,96,Iya,2.2,UpSloping,Iya,rever,Tidak Terkena
+70,Pria,Typical angina,130,322,fbs<=120,Normal,109,Tidak,2.4,FlatSloping,,rever,Tidak Terkena
+51,Pria,Typical angina,140,299,fbs<=120,Abnormal,173,Iya,1.6,DownSloping,Tidak,fixed,Tidak Terkena
+58,Pria,Typical angina,125,300,fbs<=120,Normal,171,Tidak,0.0,DownSloping,,fixed,Tidak Terkena
+60,Pria,Typical angina,140,293,fbs<=120,Normal,170,Tidak,1.2,FlatSloping,,fixed,Tidak Terkena
+77,Pria,Typical angina,125,304,fbs<=120,Normal,162,Iya,0.0,DownSloping,,rever,Tidak Terkena
+35,Pria,Typical angina,126,282,fbs<=120,Normal,156,Iya,0.0,DownSloping,Tidak,fixed,Tidak Terkena
+70,Pria,Non-anginal pain,160,269,fbs<=120,Abnormal,112,Iya,2.9,FlatSloping,Iya,fixed,Tidak Terkena
+59,Wanita,Typical angina,174,249,fbs<=120,Abnormal,143,Iya,0.0,FlatSloping,Tidak,rever,Tidak Terkena
+64,Pria,Typical angina,145,212,fbs<=120,Normal,132,Tidak,2.0,FlatSloping,,normal,Tidak Terkena
+57,Pria,Typical angina,152,274,fbs<=120,Abnormal,88,Iya,1.2,FlatSloping,Iya,fixed,Tidak Terkena
+56,Pria,Typical angina,132,184,fbs<=120,Normal,105,Iya,2.1,FlatSloping,Iya,normal,Tidak Terkena
+48,Pria,Typical angina,124,274,fbs<=120,Normal,166,Tidak,0.5,FlatSloping,Tidak,fixed,Tidak Terkena
+56,Wanita,Typical angina,134,409,fbs<=120,Normal,150,Iya,1.9,FlatSloping,,fixed,Tidak Terkena
+66,Pria,Atypical angina,160,246,fbs<=120,Abnormal,120,Iya,0.0,FlatSloping,,normal,Tidak Terkena
+54,Pria,Atypical angina,192,283,fbs<=120,Normal,195,Tidak,0.0,DownSloping,Iya,fixed,Tidak Terkena
+69,Pria,Non-anginal pain,140,254,fbs<=120,Normal,146,Tidak,2.0,FlatSloping,,fixed,Tidak Terkena
+51,Pria,Typical angina,140,298,fbs<=120,Abnormal,122,Iya,4.2,FlatSloping,,fixed,Tidak Terkena
+43,Pria,Typical angina,132,247,Fbs>120,Normal,143,Iya,0.1,FlatSloping,,fixed,Tidak Terkena
+62,Wanita,Typical angina,138,294,Fbs>120,Abnormal,106,Tidak,1.9,FlatSloping,,rever,Tidak Terkena
+67,Pria,Typical angina,100,299,fbs<=120,Normal,125,Iya,0.9,FlatSloping,,rever,Tidak Terkena
+59,Pria,Asymptomatic,160,273,fbs<=120,Normal,125,Tidak,0.0,DownSloping,Tidak,rever,Tidak Terkena
+45,Pria,Typical angina,142,309,fbs<=120,Normal,147,Iya,0.0,FlatSloping,,fixed,Tidak Terkena
+58,Pria,Typical angina,128,259,fbs<=120,Normal,130,Iya,3.0,FlatSloping,,fixed,Tidak Terkena
+50,Pria,Typical angina,144,200,fbs<=120,Normal,126,Iya,0.9,FlatSloping,Tidak,fixed,Tidak Terkena
+62,Wanita,Typical angina,150,244,fbs<=120,Abnormal,154,Iya,1.4,FlatSloping,Tidak,rever,Tidak Terkena
+38,Pria,Asymptomatic,120,231,fbs<=120,Abnormal,182,Iya,3.8,FlatSloping,Tidak,fixed,Tidak Terkena
+66,Wanita,Typical angina,178,228,Fbs>120,Abnormal,165,Iya,1.0,FlatSloping,,fixed,Tidak Terkena
+52,Pria,Typical angina,112,230,fbs<=120,Abnormal,160,Tidak,0.0,DownSloping,Iya,rever,Tidak Terkena
+53,Pria,Typical angina,123,282,fbs<=120,Abnormal,95,Iya,2.0,FlatSloping,,fixed,Tidak Terkena
+63,Wanita,Typical angina,108,269,fbs<=120,Abnormal,169,Iya,1.8,FlatSloping,,rever,Tidak Terkena
+54,Pria,Typical angina,110,206,fbs<=120,Normal,108,Iya,0.0,FlatSloping,Iya,rever,Tidak Terkena
+66,Pria,Typical angina,112,212,fbs<=120,Normal,132,Iya,0.1,DownSloping,Iya,rever,Tidak Terkena
+55,Wanita,Typical angina,180,327,fbs<=120,Hypertrofi ventrikel,117,Iya,3.4,FlatSloping,Tidak,rever,Tidak Terkena
+49,Pria,Non-anginal pain,118,149,fbs<=120,Normal,126,Tidak,0.8,DownSloping,,rever,Tidak Terkena
+54,Pria,Typical angina,122,286,fbs<=120,Normal,116,Iya,3.2,FlatSloping,,rever,Tidak Terkena
+56,Pria,Typical angina,130,283,Fbs>120,Normal,103,Iya,1.6,UpSloping,Tidak,fixed,Tidak Terkena
+46,Pria,Typical angina,120,249,fbs<=120,Normal,144,Tidak,0.8,DownSloping,Tidak,fixed,Tidak Terkena
+61,Pria,Asymptomatic,134,234,fbs<=120,Abnormal,145,Tidak,2.6,FlatSloping,,rever,Tidak Terkena
+67,Pria,Typical angina,120,237,fbs<=120,Abnormal,71,Tidak,1.0,FlatSloping,Tidak,rever,Tidak Terkena
+58,Pria,Typical angina,100,234,fbs<=120,Abnormal,156,Tidak,0.1,DownSloping,Iya,fixed,Tidak Terkena
+47,Pria,Typical angina,110,275,fbs<=120,Normal,118,Iya,1.0,FlatSloping,Iya,rever,Tidak Terkena
+52,Pria,Typical angina,125,212,fbs<=120,Abnormal,168,Tidak,1.0,DownSloping,,fixed,Tidak Terkena
+58,Pria,Typical angina,146,218,fbs<=120,Abnormal,105,Tidak,2.0,FlatSloping,Iya,fixed,Tidak Terkena
+57,Pria,Atypical angina,124,261,fbs<=120,Abnormal,141,Tidak,0.3,DownSloping,Tidak,fixed,Tidak Terkena
+58,Wanita,Atypical angina,136,319,Fbs>120,Normal,152,Tidak,0.0,DownSloping,,rever,Tidak Terkena
+61,Pria,Typical angina,138,166,fbs<=120,Normal,125,Iya,3.6,FlatSloping,Iya,rever,Tidak Terkena
+42,Pria,Typical angina,136,315,fbs<=120,Abnormal,125,Iya,1.8,FlatSloping,Tidak,normal,Tidak Terkena
+52,Pria,Typical angina,128,204,Fbs>120,Abnormal,156,Iya,1.0,FlatSloping,Tidak,normal,Tidak Terkena
+59,Pria,Non-anginal pain,126,218,Fbs>120,Abnormal,134,Tidak,2.2,FlatSloping,Iya,normal,Tidak Terkena
+40,Pria,Typical angina,152,223,fbs<=120,Abnormal,181,Tidak,0.0,DownSloping,Tidak,fixed,Tidak Terkena
+61,Pria,Typical angina,140,207,fbs<=120,Normal,138,Iya,1.9,DownSloping,Iya,fixed,Tidak Terkena
+46,Pria,Typical angina,140,311,fbs<=120,Abnormal,120,Iya,1.8,FlatSloping,,fixed,Tidak Terkena
+59,Pria,Asymptomatic,134,204,fbs<=120,Abnormal,162,Tidak,0.8,DownSloping,,rever,Tidak Terkena
+57,Pria,Atypical angina,154,232,fbs<=120,Normal,164,Tidak,0.0,DownSloping,Iya,rever,Tidak Terkena
+57,Pria,Typical angina,110,335,fbs<=120,Abnormal,143,Iya,3.0,FlatSloping,Iya,fixed,Tidak Terkena
+55,Wanita,Typical angina,128,205,fbs<=120,Hypertrofi ventrikel,130,Iya,2.0,FlatSloping,Iya,fixed,Tidak Terkena
+61,Pria,Typical angina,148,203,fbs<=120,Abnormal,161,Tidak,0.0,DownSloping,Iya,fixed,Tidak Terkena
+58,Pria,Typical angina,114,318,fbs<=120,Hypertrofi ventrikel,140,Tidak,4.4,UpSloping,,normal,Tidak Terkena
+58,Wanita,Typical angina,170,225,Fbs>120,Normal,146,Iya,2.8,FlatSloping,,normal,Tidak Terkena
+67,Pria,Non-anginal pain,152,212,fbs<=120,Normal,150,Tidak,0.8,FlatSloping,Tidak,fixed,Tidak Terkena
+44,Pria,Typical angina,120,169,fbs<=120,Abnormal,144,Iya,2.8,UpSloping,Tidak,normal,Tidak Terkena
+63,Pria,Typical angina,140,187,fbs<=120,Normal,144,Iya,4.0,DownSloping,,fixed,Tidak Terkena
+63,Wanita,Typical angina,124,197,fbs<=120,Abnormal,136,Iya,0.0,FlatSloping,Tidak,rever,Tidak Terkena
+59,Pria,Typical angina,164,176,Fbs>120,Normal,90,Tidak,1.0,FlatSloping,,normal,Tidak Terkena
+57,Wanita,Typical angina,140,241,fbs<=120,Abnormal,123,Iya,0.2,FlatSloping,Tidak,fixed,Tidak Terkena
+45,Pria,Asymptomatic,110,264,fbs<=120,Abnormal,132,Tidak,1.2,FlatSloping,Tidak,fixed,Tidak Terkena
+68,Pria,Typical angina,144,193,Fbs>120,Abnormal,141,Tidak,3.4,FlatSloping,,fixed,Tidak Terkena
+57,Pria,Typical angina,130,131,fbs<=120,Abnormal,115,Iya,1.2,FlatSloping,Iya,fixed,Tidak Terkena
+57,Wanita,Atypical angina,130,236,fbs<=120,Normal,174,Tidak,0.0,FlatSloping,Iya,rever,Tidak Terkena
